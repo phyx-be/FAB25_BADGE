@@ -1,7 +1,7 @@
 # FAB25_BADGE
 We've been asked by our friends over at [FabLab Leuven](https://fablab-leuven.be/) to design a solder kit for the [FAB25](https://fab25.fabevent.org/) conference in Czechia.
 
-![FAB25 logo](media/fab25_logo.jpg)
+![FAB25 logo](media/fab25_logo.png)
 
 ## Design
 In order to make the kit a bit more advanced we opted to use a [555 timer](https://www.ti.com/product/TLC555) IC to generator a clock signal for a [4017 counter](https://www.ti.com/product/CD4017B) IC. This will result in LEDs lighting up one by one around the logo. A slide switch on the back allows users to disable the light show to save power. 
