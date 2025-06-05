@@ -14,5 +14,5 @@ Initial version of the design based on the [FAB25](https://fab25.fabevent.org/) 
 
 
 ## REV 01
-Revision 01 is the mass production version of the kit. We removed the unnecessary capacitor, added the switch and increased the animation speed by reducing the 470kΩ resistors to 100kΩ. 
+Revision 01 is the mass production version of the kit. Besides an update to the graphical design and adding the sponsor logo, we als removed the unnecessary capacitor, added the switch and increased the animation speed by reducing the 470kΩ resistors to 100kΩ. 
 R1 and R2 are 100kΩ, C1 is 1µF, the animation speed can be calculated using the following formula: f=1.44/[(R1+2*R2)C1]=4,8Hz
