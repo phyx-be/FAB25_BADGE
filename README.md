@@ -10,9 +10,16 @@ In order to make the kit a bit more advanced we opted to use a [555 timer](https
 Since the ICs would cover op parts of the identifying marks of the logo, we opted to mark the ICs with "25" and "Czechia". This was done by laser engraving the ICs and filling those engravings with paint.
 
 ![chip engraving](media/chip_marking0.jpg)
+Sample chip engraving and painting.
+
 ![chip painting with white and gold paint](media/chip_marking1.jpg)
+First test with gold and white paint.
+
 ![chip painting with alternative white paints](media/chip_marking2.jpg)
+Testing with different white paints.
+
 ![mass chip engraving and painting with a rig in a laser cutter](media/chip_marking3.jpg)
+Mass engraving of the ICs in the laser cutter with a custom jig to speed up the process (a total of 2000 chips had to be marked).
 
 
 ## REV 00
